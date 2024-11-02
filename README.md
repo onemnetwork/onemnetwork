@@ -1,5 +1,5 @@
-# One M TPS Network
+# One M Network
 
-Go to the [wiki](https://github.com/onemtps/onemtps/wiki).
+Go to the [wiki](https://onem.network).
 
-Follow [@onemtps](https://onemtps.network/twitter) on X.
+Follow [@onemnetwork](https://onem.network/x) on X.
