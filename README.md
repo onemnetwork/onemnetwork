@@ -1,4 +1,4 @@
-# One M Network
+# OneM Network
 
 Go to the [wiki](https://onem.network).
 
